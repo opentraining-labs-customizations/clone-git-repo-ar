@@ -1,3 +1,3 @@
 ---
-clone-git-repo-ar-repo-url: https://github.com/opentraining-labs-customizations/mcap-deployment-files.git
-clone-git-repo-ar-dest-dir: /root/mcap-deployment-files/
+clone_git_repo_ar_repo_url: https://github.com/opentraining-labs-customizations/mcap-deployment-files.git
+clone_git_repo_ar_dest_dir: /root/mcap-deployment-files/

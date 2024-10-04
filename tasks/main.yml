@@ -1,5 +1,5 @@
 ---
 - name: Clone Git repository in the lab
   ansible.builtin.git:
-    repo: "{{ clone-git-repo-ar-repo-url }}"
-    dest: "{{ clone-git-repo-ar-dest-dir }}"
+    repo: "{{ clone_git_repo_ar_repo_url }}"
+    dest: "{{ clone_git_repo_ar_dest_dir }}"
